@@ -1,0 +1,10 @@
+[package]
+name = "gltf2hm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.79"
+gltf = "1.4.0"
+image = "0.24.7"
+rayon = "1.8.0"
